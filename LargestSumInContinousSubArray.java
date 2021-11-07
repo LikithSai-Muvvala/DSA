@@ -2,7 +2,7 @@ import java.util.*;
 public class LargestSumInContinousSubArray {
     public static void main(String args[]) {
       int[] vals = {-2,-3,5,6,-6,7,8,9};
-      largestSumInSubArray(vals);
+      largestSumInContinousSubArray(vals);
     }
     
     public static void largestSumInContinousSubArray(int[] vals) {
